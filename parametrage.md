@@ -19,3 +19,4 @@ git init
 si recup un projet dispo sur github
 git clone <adresse internet depot>
 
+git branch -M main
